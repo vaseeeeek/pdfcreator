@@ -1,0 +1,8 @@
+/* Здесь могут быть базовые стили для вашего интерфейса */
+body {
+    font-family: Arial, sans-serif;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+}

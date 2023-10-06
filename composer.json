@@ -1,0 +1,17 @@
+{
+    "name": "vasiliy/pdfcreator",
+    "autoload": {
+        "psr-4": {
+            "Vasiliy\\Pdfcreator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vasiliy Lapshinkin",
+            "email": "vaseeeeek53@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
